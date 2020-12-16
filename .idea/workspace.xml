@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0044efd-4428-4161-9fb6-f95373a65261" name="Default Changelist" comment="" />
+    <list default="true" id="a0044efd-4428-4161-9fb6-f95373a65261" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,19 +73,5 @@
     <MESSAGE value="initial heroku" />
     <MESSAGE value="initial heroku node-modules" />
     <option name="LAST_COMMIT_MESSAGE" value="initial heroku node-modules" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="542" y="52" key="CommitChangelistDialog2" timestamp="1606335833143">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="542" y="52" key="CommitChangelistDialog2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1606335833143" />
-    <state x="752" y="251" key="FileChooserDialogImpl" timestamp="1606335315544">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="752" y="251" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1606335315544" />
-    <state x="517" y="223" key="Vcs.Push.Dialog.v2" timestamp="1606335838534">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="517" y="223" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1606335838534" />
   </component>
 </project>
