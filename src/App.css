@@ -1,18 +1,10 @@
 @import '~antd/dist/antd.css';
+@import 'components/buttons.css';
+@import 'components/footer.css';
 .site-layout .site-layout-background {
   background: #fff;
 }
 .logo {
   margin: 8px;
   padding: 0px;
-}
-.youTubeWrapper{
-  display: inline;
-}
-.youTubeWrapper .ant-btn:hover{
-  border-color:#FF0000;
-  background-color: #282828;
-}
-.youTubeWrapper .ant-btn:hover span {
-  color:#FF0000;
 }
