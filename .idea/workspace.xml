@@ -13,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="footer" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,19 +71,5 @@
     <MESSAGE value="initial heroku" />
     <MESSAGE value="initial heroku node-modules" />
     <option name="LAST_COMMIT_MESSAGE" value="initial heroku node-modules" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="542" y="52" key="CommitChangelistDialog2" timestamp="1606335833143">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="542" y="52" key="CommitChangelistDialog2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1606335833143" />
-    <state x="752" y="251" key="FileChooserDialogImpl" timestamp="1606335315544">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="752" y="251" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1606335315544" />
-    <state x="517" y="223" key="Vcs.Push.Dialog.v2" timestamp="1606335838534">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="517" y="223" key="Vcs.Push.Dialog.v2/0.0.2048.1112/2560.0.2048.1112@0.0.2048.1112" timestamp="1606335838534" />
   </component>
 </project>
